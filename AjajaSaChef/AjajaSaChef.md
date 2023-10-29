@@ -12,8 +12,8 @@ The real flag of the challenge starts from the word *Metodu* <br>
 ![Screenshot from 2023-10-29 21-07-57](https://github.com/FeeeDz/Srdnlen-CTF-2023/assets/67475596/c6bdd91b-207a-4789-8f71-391778cd9715)
 
 
-the sentences all follow the same pattern, in each one only the name of the ingredient changes.
-At this point it was only necessary to make a list of the number of grams associated with the ingrendient and create the flag number by number.
+the sentences all follow the same pattern: *Ponnere* **ingridient** *in sa tassa pro misturare* in each one only the name of the ingredient changes.
+At this point it was only necessary to make a list of the number of grams associated with the ingrendient and create the flag number by number. <br>
 ![Screenshot from 2023-10-29 21-15-36](https://github.com/FeeeDz/Srdnlen-CTF-2023/assets/67475596/3a5be779-a9a1-4f32-986a-18f150bb20a5)
 
 But the flag was backwards: **}yenoh_htiw_ylno_seog_adaes{nelndrs** --> **srdnlen{seada_goes_only_with_honey}**
